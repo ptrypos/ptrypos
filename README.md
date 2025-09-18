@@ -12,6 +12,7 @@ I'm an undergraduate student in **Computer Science and Engineering** at the Univ
 ## 🌟 Favorite Projects
 
 - [MLP-Neural-Network](https://github.com/ThePhantom2307/mlp-neural-network): A multi-layer perceptron neural network implementation.
+- [MNIST-Classification](https://github.com/ThePhantom2307/MNIST-Classification): A handwritten digits classification problem using the [MLP-Neural-Network](https://github.com/ThePhantom2307/mlp-neural-network) library.
 - [Traineeship-App](https://github.com/ThePhantom2307/traineeship-app): An app designed to manage and streamline traineeship processes.
 - [ControlPC](https://github.com/ThePhantom2307/ControlPC): Tools and scripts for PC management and automation.
 
