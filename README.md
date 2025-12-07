@@ -23,7 +23,7 @@ I'm an undergraduate student in **Computer Science and Engineering** at the Univ
 
 ## 🌐 Connect with Me
 
-- 🖥️ [Personal Website](https://ptrypos.me)
+- 🖥️ <a href="ptrypos.me" target="_blank">Personal Website</a>
 - 📸 [Instagram](https://www.instagram.com/panagiotistrypos/)
 - 👤 [Facebook](https://www.facebook.com/PanagiotisTrypos23)
 - 💼 [LinkedIn](https://www.linkedin.com/in/panagiotis-trypos-983abb242)
