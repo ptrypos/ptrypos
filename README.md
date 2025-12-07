@@ -23,10 +23,10 @@ I'm an undergraduate student in **Computer Science and Engineering** at the Univ
 
 ## 🌐 Connect with Me
 
+- 🖥️ [Personal Website](https://ptrypos.me)
 - 📸 [Instagram](https://www.instagram.com/panagiotistrypos/)
 - 👤 [Facebook](https://www.facebook.com/PanagiotisTrypos23)
 - 💼 [LinkedIn](https://www.linkedin.com/in/panagiotis-trypos-983abb242)
-- 🖥️ [Personal Website](https://cs.uoi.gr/~cs205131)
 
 ---
 
